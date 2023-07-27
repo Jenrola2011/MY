@@ -1,0 +1,53 @@
+ul.navbar {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+    display: flex;
+    justify-content: center;
+    background-color: #f1f1f1;
+  }
+  
+  ul.navbar li {
+    display: inline-block;
+  }
+  
+  ul.navbar li a {
+    display: block;
+    padding: 10px 20px;
+    text-decoration: none;
+    color: #333;
+  }
+  
+ 
+div{
+  text-align: center;
+  background-color: rgb(158, 214, 216);
+ 
+}
+h2{
+  text-align: left;
+  background-color: lightpink;
+}
+p{
+  text-align: left;
+  background-color: lightpink;
+}
+img{
+height: 400px;
+width: 400px;
+}
+.social-media{
+  height: 100px;
+  width: 100px;
+  }
+li{
+  background-color:aquamarine;
+}
+
+Logo{
+  height: 100px;
+  width: 100px;
+
+}
+
+
